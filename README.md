@@ -1,4 +1,3 @@
-# The-Solar-System
 The Solar System
 ================
 
